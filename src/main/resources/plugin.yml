@@ -1,0 +1,5 @@
+name: Hruska
+version: ${project.version}
+main: me.TeamsInsane.Hruska.Core
+api-version: 1.17
+author: TeamsInsane

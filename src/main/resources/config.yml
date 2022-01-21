@@ -1,0 +1,13 @@
+commandForEndPortalclick: "execute at TeamsInsane run summon minecraft:zombie ^ ^ ^2"
+commandForObserverClick: "execute at TeamsInsane run summon minecraft:zombie ^ ^ ^2"
+maxDoorKeysDropPerMythicMob: 5
+minDoorKeysDropPerMythicMob: 2
+darkKeyDropMobSearchName1: "skeletal"
+darkKeyDropMobSearchName2: "knight"
+titleAfterBossDeath1: "&4XR-119 is defeated!"
+doorBreakMessage: "&6The door was forced open!"
+KeyDropMobSearchName1: "dark"
+KeyDropMobSearchName2: "elf"
+titleAfterBossDeath2: "&The Dark Elf is defeated!"
+KeysDropPerBoss: 3
+DarkKeysDropPerBoss: 1
